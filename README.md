@@ -1,4 +1,4 @@
-# Claude CLI Auto-Accept for Cmder
+# Claude CLI Auto-Proceed for Cmder
 
 Automatic confirmation handling for Claude Code CLI within Cmder terminal emulator.
 
